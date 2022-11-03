@@ -572,6 +572,15 @@
   )
 
 
+  (wire (pts (xy 170.18 76.2) (xy 170.18 77.47))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 0458b74c-3c8d-4539-85bb-6637f32012f8)
+  )
+  (wire (pts (xy 200.66 76.2) (xy 170.18 76.2))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 7d9d9893-c351-403c-8514-9501e9ee136e)
+  )
+
   (symbol (lib_id "Driver_Motor:Pololu_Breakout_DRV8825") (at 160.02 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2cdaab39-81f1-4593-98a9-4b3ba5375c9d)
